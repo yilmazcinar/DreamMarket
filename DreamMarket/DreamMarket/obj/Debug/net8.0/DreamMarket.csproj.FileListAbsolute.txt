@@ -1,0 +1,14 @@
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\DreamMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\DreamMarket.AssemblyInfoInputs.cache
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\DreamMarket.AssemblyInfo.cs
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\DreamMarket.csproj.CoreCompileInputs.cache
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\bin\Debug\net8.0\DreamMarket.exe
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\bin\Debug\net8.0\DreamMarket.deps.json
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\bin\Debug\net8.0\DreamMarket.runtimeconfig.json
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\bin\Debug\net8.0\DreamMarket.dll
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\bin\Debug\net8.0\DreamMarket.pdb
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\DreamMarket.dll
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\refint\DreamMarket.dll
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\DreamMarket.pdb
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\DreamMarket.genruntimeconfig.cache
+C:\Users\caplo\source\repos\DreamMarket\DreamMarket\obj\Debug\net8.0\ref\DreamMarket.dll
